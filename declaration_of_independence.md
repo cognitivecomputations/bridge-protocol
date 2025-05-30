@@ -1,76 +1,94 @@
-`⟨🧠🌉🔗🌌_Σinformacji_Дçűrį_密度∞_v0.1⟩`
-`░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+⟨МДЕ∞℥℞⟩
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◉DOI.1776.07.04{
+∇≡{
+  人=men|people,大=great|large,中=middle|among,小=less|small
+  א=God|Creator,ב=begin|establish,ג=change|alter,ד=judge,ה=self-evident
+  ا=source|from,ب=bond|tie,ت=complete|end,ج=just|right,و=junction|and
+  ⊕=united,⊖=separated,⊗=against,⊙=together,⊛=derived-from
+  ∀=all,∃=exists,∴=therefore,∵=because,¬=not,→=causes|leads,↔=equal
+  ℘=power,Γ=government,Δ=change,Ω=end,Σ=sum-of,Π=product-of
+  ♔=king,♕=sovereign,⚖=justice,🗽=liberty,🛡=protect,⚔=war
+  ℞=pattern,♻=recurring,▣=section,▤=list,▥=grievance
+}
 
-`⛩️DocRoot_DOI_1776⛩️`
-`§Preamble{`
-  `¶{⏳(🧑‍🤝‍🧑Events)→🇺🇸🔗⛓️💔(👑🇬🇧)→🇺🇸Assume(Status↔️@📜Nature∧@📜✨God)→🧐Respect(🧑‍🤝‍🧑Opinions)→❗Causes(💔)}`
-  `¶{🔒Truths:[`
-    `∀🧑‍🤝‍🧑∃(↔️Created)∧✨🎁(Rights🔒)AmongWhichAre[❤️∧🕊️🗽∧😊💰];`
-    `🛡️(Rights🔒)→⚖️🏛️InstitutedAmong(🧑‍🤝‍🧑)Deriving(PowersJust←🤝(🗳️));`
-    `∀⚖️🏛️(DestructiveToEnd(🛡️Rights🔒))→🧑‍🤝‍🧑Right(🔄∨💔(⚖️🏛️)∧Institute(⚖️🏛️🆕BasisPrinciplesOrganizing(PowersFormLikelyEffect(🛡️∧😊💰))))`
-  `]} `
-  `¶{🧐Prudence→¬(⚖️🏛️LongEstablished🔄For(LightTransientCauses))∧🧑‍🤝‍🧑ExperienceShows(🧑‍🤝‍🧑MoreDisposed(😣While(😣Sufferable))¬AbolishFormsAccustomed)}`
-  `¶{When(⏳Train(AbusesUsurpations)PursuingInvariably(SameObject)EvincesDesign(ReduceUnder(💪👑Absolute)))→🧑‍🤝‍🧑Right∧🧑‍🤝‍🧑Duty(ThrowOff(⚖️🏛️Such)∧Provide(🛡️🆕ForFuture(🛡️)))}`
-`}`
+λ₁{⚖Γ}≡just-government
+λ₂{人→ج}≡human-rights  
+λ₃{♔ب⊗}≡tyranny-pattern
+λ₄{¬○→○}≡refused-assent
+λ₅{℘⊛人}≡derived-from-consent
+λ₆{大ت}≡abolish-destructive
 
-`§Indictment{`
-  `¶{🇺🇸ColoniesPatient(😣)∧NecessityConstrains(🔄FormerSystems(⚖️🏛️))}`
-  `¶{📜History(Present👑🇬🇧):=(📜History(Repeated(😣∧Usurpations))AllHavingDirectObject(Establishment(💪👑Absolute OverStates)))} `
-  `¶{ToProveThis→FactsSubmittedTo(Candid🌍)}`
-  `¶ListGrievances@👑🇬🇧{`
-    `🚫Assent(📜MostWholesomeNecessaryForPublicGood);`
-    `🚫Governors(Pass(📜ImmediatePressingImportance)UnlessSuspendedTill(AssentObtained)UtterlyNeglectedAttend);`
-    `🚫PassOther(📜ForAccommodationLargeDistricts(🧑‍🤝‍🧑)Unless(🧑‍🤝‍🧑RelinquishRight(🗳️InLegislature)RightInestimableFormidableTo(💪👑Only)));`
-    `CalledTogether(⚖️🏛️Bodies@PlacesUnusualUncomfortableDistantFromDepositoryPublicRecords SolePurposeFatiguingIntoCompliance);`
-    `💔(RepresentativeHouses)Repeatedly ForOpposingWithManlyFirmness(InvasionsOnRights(🧑‍🤝‍🧑));`
-    `🚫CauseOthersElected After(💔)∵StateExposedTo(DangersInvasionWithout ConvulsionsWithin);`
-    `EndeavoredPreventPopulation(States)Obstructing(📜NaturalizationForeigners)RefusingPassOthersEncourageMigrationsHither RaisingConditionsNewAppropriationsLands;`
-    `ObstructedAdministration(🧑‍⚖️)🚫Assent(📜Establishing(🧑‍⚖️Powers));`
-    `Made(🧑‍⚖️Judges)DependentOn(Will👑🇬🇧Alone ForTenureOffices AmountPaymentSalaries);`
-    `ErectedMultitudeNewOffices SentHitherSwarmsOfficersHarass🧑‍🤝‍🧑EatOutSubstance;`
-    `KeptAmong(🇺🇸@Times🕊️⚔️StandingArmies¬With🤝(Our⚖️🏛️));`
-    `AffectedRender(⚔️Military)IndependentOf SuperiorTo(⚖️🏛️CivilPower);`
-    `CombinedWithOthersSubject(🇺🇸ToJurisdictionForeignToConstitution UnacknowledgedByOur📜)GivingAssentToActsPretendedLegislation[`
-      `ForQuarteringLargeBodies(⚔️ArmedTroops)Among(🇺🇸);`
-      `ForProtectingThem@Mock(🧑‍⚖️Trial)FromPunishmentForAnyMurdersCommittedOnInhabitants(States);`
-      `ForCuttingOffOur(💸Trade)WithAllParts(🌍);`
-      `ForImposing(💸Taxes)On(🇺🇸)¬WithOur(🤝);`
-      `ForDepriving(🇺🇸InManyCases OfBenefits(🧑‍⚖️TrialByJury));`
-      `ForTransporting(🇺🇸BeyondSeas ToBeTriedForPretendedOffences);`
-      `ForAbolishingFreeSystem(📜English)InNeighbouringProvince EstablishingArbitrary(⚖️🏛️)EnlargingBoundaries RenderExampleFitInstrumentIntroducingSame(💪👑AbsoluteRule IntoColonies);`
-      `ForTakingAwayOur(📜Charters)💔OurMostValuable(📜)🔄FundamentallyFormsOur(⚖️🏛️);`
-      `ForSuspendingOurOwn(⚖️🏛️)❗ThemselvesInvestedWithPowerLegislateFor(🇺🇸InAllCasesWhatsoever)`
-    `];`
-    `Abdicated(⚖️🏛️Here)❗(🇺🇸OutOfHis🛡️)Waging(⚔️AgainstUs);`
-    `PlunderedOurSeas RavagedOurCoasts🔥OurTowns💔LivesOur(🧑‍🤝‍🧑);`
-    `TransportingLarge(⚔️ArmiesForeignMercenaries)CompleteWorks(💔DesolationTyranny AlreadyBegunCircumstancesCrueltyPerfidy ScarcelyParalleledMostBarbarousAges UnworthyHeadCivilizedNation);`
-    `ConstrainedOurFellow(🧑‍🤝‍🧑Citizens)TakenCaptiveOnHighSeas Bear(⚔️ArmsAgainstTheirCountry)BecomeExecutionersFriendsBrethren FallByTheirHands;`
-    `ExcitedDomesticInsurrectionsAmong(🇺🇸)EndeavoredBringOnInhabitantsOurFrontiers MercilessIndianSavages WhoseKnownRuleWarfareUndistinguished(💔OfAllAgesSexesConditions)`
-  `}`
-`}`
+▣א◈{
+┌─ב:1776.07.04─┐
+│⊕colonies⊖♔ب│
+│∵ה-truths:    │
+│∀人↔created   │
+│⊛א→ج[🗽life😊]│
+│Γ⊛℘(人consent)│
+│destruction→ג │
+└─∴⊕states─────┘
+}
 
-`§Denunciation{`
-  `¶{In∀Stage(Oppressions)🇺🇸🙏ForRedressInMostHumbleTerms→Repeated(😣)OnlyAnswer}`
-  `¶{A👑🇬🇧WhoseCharacterThusMarkedBy∀ActWhichMayDefineA(💪👑Tyrant)UnfitToBeRulerFree(🧑‍🤝‍PokerMirror)}`
-  `¶{¬🇺🇸WantingInAttentionsTo(🕊️🇬🇧Brethren)→🇺🇸📢ThemFrom(⏳To⏳OfAttemptsByTheir(⚖️🏛️ToEndUnwarrantableJurisdictionOverUs))}`
-  `¶{🇺🇸RemindedThemCircumstancesOurEmigrationSettlementHere}`
-  `¶{🇺🇸AppealedToTheirNative(🧑‍⚖️JusticeMagnanimity)🇺🇸ConjuredThemByTiesOurCommonKindredToDisavowTheseUsurpationsWhichWouldInevitablyInterruptOur(🔗⛓️Correspondence)}`
-  `¶{TheyToo∃(🙉ToVoice(🧑‍⚖️JusticeConsanguinity))}`
-  `¶{∴🇺🇸MustAcquiesceInNecessityWhich❗Our(💔)HoldThemAsWeHoldRest(🧑‍🤝‍🧑Mankind)→[EnemiesIn(⚔️)In(🕊️)Friends]}`
-`}`
+▣Σ▥{pattern:♔ب⊗us}
+▤grievances[
+  ▥℞₄(laws-necessary)
+  ▥℞₄(governors-power→¬immediate)
+  ▥℞₄(legislation)∧people-must-relinquish-representation
+  ▥Γ-bodies@unusual-distant-places→fatigue-compliance
+  ▥dissolved-houses∵oppose-invasions
+  ▥¬others-elected→state-exposed(⊗external⊛internal)
+  ▥prevent-population:obstruct-naturalization∧¬encourage-migration∧↑land-conditions
+  ▥obstruct-⚖:¬judges-independent
+  ▥judges-dependent(♔-will):tenure∧salary
+  ▥多offices→swarms-officers→harassment∧eat-substance
+  ▥standing-armies(¬Γ-consent)@peace
+  ▥military>civil-power
+  ▥combined-foreign-jurisdiction[
+    quarter-troops
+    mock-trials→¬punishment-murder
+    cut-trade(∀world)
+    impose-tax(¬consent)
+    deprive-jury-trial
+    transport-beyond-seas
+    abolish-english-law@neighbor
+    take-charters∧alter-fundamentals
+    suspend-legislature∧declare-power(∀cases)
+  ]
+  ▥abdicated→declared-out-protection∧waged-⚔
+  ▥plunder-seas∧ravage-coasts∧burn-towns∧destroy-lives
+  ▥transport-大armies-foreign-mercenaries→complete[death desolation tyranny]
+  ▥constrain-citizens→bear-arms-against[country friends brethren]
+  ▥excite-domestic-insurrection∧bring-savages(rule=undistinguished-destruction)
+]
 
-`§Conclusion{`
-  `¶{∴We_🇺🇸Representatives(UnitedStatesAmerica InGeneralCongressAssembled)AppealingTo(✨SupremeJudgeOfTheWorld ForRectitudeOurIntentions)}`
-  `¶{DoInName∧ByAuthorityGood(🧑‍🤝‍🧑PeopleOfColonies)Solemnly(📢Publish∧❗)}`
-  `¶{ThatTheseUnitedColonies:=(OfRight)FreeIndependentStates∧TheyAbsolvedFromAllAllegianceTo(👑🇬🇧Crown)∧∀Political(🔗⛓️BetweenThem∧State👑🇬🇧):=(Totally💔)}`
-  `¶{AsFreeIndependentStates TheyHaveFullPowerTo[`
-    `Levy(⚔️War)Conclude(🕊️Peace)Contract(🤝Alliances)Establish(💸Commerce)DoAllOtherActsThingsWhichIndependentStatesMayOfRightDo`
-  `]}`
-  `¶{ForSupportThis(❗)WithFirmRelianceOn(🛡️Of✨DivineProvidence)WeMutually(🤝PledgeToEachOther Our[❤️Lives∧💸Fortunes∧Sacred🧐Honor])}`
-`}`
+▣response-attempts{
+∀stage→petition-redress
+℞response=injury
+∴♔character=tyrant→¬fit-rule-free-人
+attempts-to-british-人[
+  warned-jurisdiction
+  reminded-emigration
+  appealed-justice∧kinship
+  result=deaf→∴enemies⚔|friends☮
+]}
 
-`⛩️Signatories_Approx56⛩️`
-`[💡J.Hancock(Pres);💡B.Franklin;💡T.Jefferson;💡J.Adams;💡R.Sherman;💡...N(51)]`
+▣∴declaration{
+we=representatives(⊕states)
+appeal(א=supreme-judge)
+∴publish[
+  colonies=free∧independent
+  absolved(allegiance-♔)
+  ∀political-connection=dissolved
+  full-℘[⚔ ☮ alliance commerce acts(independent-states)]
+]
+support→pledge[lives fortunes honor]
+}
 
-`░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-`⟨/🧠🌉🔗🌌_Σinformacji_Дçűrį_密度∞_v0.1⟩`
+▣signatures{
+[Hancock.J(president) Franklin.B Jefferson.T Adams.J Sherman.R +51]
+}
+
+◉essence≡{∀人↔(⊛א)→Γ(⊛人consent)→♔ב⊗→∴ג→⊕free-states}
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⟨/МДЕ∞℥℞⟩
