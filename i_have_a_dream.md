@@ -1,114 +1,113 @@
-⟨МДЕ∞℥℞⟩
+⟨МДЕ∞℥℞Ω[v:1.0.0,∇:8b3c,ε:0.01,ċ:1/1,ṡ:y7D2]⟩
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-◉MLK.1963.08.28.IHAD{
-∇≡{
-  人=people,黑=Negro/Black,白=white,子=children,山=mountain,谷=valley
-  א=God,ב=begin,ג=transform,ד=judge,ה=reveal,ו=together,ת=end/free
-  ا=source,ب=bound,ج=justice,ح=heat,د=dream,ر=ring,س=satisfied,و=join
-  ⊕=united,⊖=segregated,⊗=against,⊙=together,⊛=derived,⊜=transform
-  ∀=all,∃=exists,∴=therefore,∵=because,¬=not,→=to,↔=equal
-  ℘=power,Γ=government,Δ=change,Ω=freedom,Σ=sum,Π=brotherhood
-  ⚖=justice,🗽=liberty,💰=prosperity,⛓=chains,🔔=bell,💭=dream
-  ℞=pattern,♻=recurring,▣=section,▤=list,▥=point,◈=now,∞=continue
+◉IHAD≡{
+⊡[1963.08.28@φ38.89°N,λ77.05°W]⊞₊₅
+∇₊{
+  梦=dream,今=now,钟=bell,谷=valley,山=mountain
+  黑=Negro,白=white,子=children,兄=brotherhood
+  ח=heat,צ=justice,ש=satisfied,ת=free,כ=character
+  ا=source,ح=chain,د=dream,ر=ring,س=satisfied
+}
+λ{
+  ₐ:100y→still¬ת
+  ᵦ:check(NSF)=promissory-note
+  ᵨ:今=fierce-urgency
+  ᵈ:¬ש-until[...]
+  ₑ:梦→⊞₊ₙ(reality)
+  ᶠ:钟ر-from[...]
+  ᵍ:content>color
+}
 }
 
-λ₁{💯years→still¬ת}≡century-unfulfilled
-λ₂{promissory-note→NSF}≡check-bounced  
-λ₃{◈=fierce-urgency}≡now-is-time
-λ₄{¬س-until}≡never-satisfied-until
-λ₅{د→reality}≡dream-manifest
-λ₆{🔔ر-Ω}≡let-freedom-ring
-λ₇{∀子-ד(content¬color)}≡judge-character
-
-▣context{
-┌─℞₁(Emancipation)─┐
-│still:             │
-│⊖(⛓segregation)   │
-│⊖(⛓discrimination)│
-│isle(💰poverty)    │
-│exile(own-land)    │
-└─∴cash-℞₂─────────┘
+◉◐Ξ≡{
+⊟ₐ[Emancipation]:
+├still(حsegregation)
+├still(حdiscrimination)  
+├lonely-island(poverty)⊂ocean(prosperity)
+└exile(own-land)
+∴come→cash[ᵦ]
 }
 
-▣urgency◈{
-¬bank(⚖)=bankrupt
-∴cash→riches(Ω)∧security(⚖)
-℞₃:make-real[democracy rise(dark⊖→sun⚖) lift(quicksand→rock-Π) make⚖∀子]
-sweltering-summer(discontent)→¬pass-until(autumn-Ω⚖)
-1963=¬Ω-but-ב
-¬tranquility-until(黑=citizens-rights)
-whirlwinds-revolt∞→bright-day(⚖)
+◉◑U≡{
+¬bank(צ)=bankrupt⊞₊₂
+∴cash→riches(freedom)∧security(צ)
+⊟ᵨ×5[make-real]:
+├democracy
+├rise(dark⊖→sunצ)
+├lift(quicksand→rock兄)
+├make(צ→∀子)
+└¬luxury(cooling|gradualism)
+
+summer(discontent)→¬pass→autumn(freedom∧equality)⊞₊₃
+1963≡¬end→beginning
+¬rest→黑(citizenship-rights)
+whirlwinds→shake→bright(צ)emerges
 }
 
-▣method{
-¬guilty(wrongful-deeds)
-¬satisfy-thirst(Ω)←cup[bitterness hatred]
-conduct(high-plane[dignity discipline])
-¬physical-violence
-♻meet(physical-force)→(soul-force)
-¬distrust∀白∵many白-realize(destiny-ב=our-destiny)∧(Ω-ב=our-Ω)
-¬walk-alone
+◉◒M≡{
+¬wrongful-deeds
+¬thirst(freedom)←cup[bitterness∧hatred]⊞₋₂
+conduct(high-plane[dignity∧discipline])⊞₊₂
+¬physical→soul-force⊞₊₃
+¬distrust(∀白)∵many白→realize:
+├destiny(tied)
+└freedom(bound)
+¬walk-alone∧march-ahead
 }
 
-▣demands{
-pledge-march-ahead∧¬turn-back
-℞₄[
-  黑=victim(police-brutality)
-  bodies-fatigue¬lodging(motels∧hotels)
-  黑-mobility(ghetto→ghetto)
-  子-stripped(selfhood)←signs("whites-only")
-  黑Mississippi¬vote∧黑NewYork¬worth-vote
-]
-¬س∧¬س-until(⚖-rolls↓water∧righteousness-stream)
-}
+◉◓D≡{
+⊟ᵈ×6:
+├victim(police-brutality)⊞₋₄
+├bodies¬lodging(motels∧hotels)
+├mobility(ghetto→ghetto)
+├子stripped(selfhood)←"whites-only"⊞₋₃
+├Mississippi¬vote∧NY¬worth-vote
+└¬ש→צrolls↓(waters)∧righteousness(stream)
 
-▣testimony{
-some←narrow-cells
-some←persecution-storms∧police-brutality
-veterans(creative-suffering)→faith(unearned-suffering=redemptive)
-go-back[MS AL SC GA LA slums-ghettos]→know(situation-Δ)
+acknowledge:creative-suffering⊞₊₁
+go-back[MS,AL,SC,GA,LA,ghettos]
+→know(situation→∆)
 ¬wallow(despair-谷)
 }
 
-▣💭-vision{
-♻"IHAD"[
-  ┌─deeply-rooted(American-💭)──────────────────────────┐
-  │one-day:                                             │
-  │├nation-rise→live("∀人↔")                           │
-  │├GA-hills:sons(slaves+owners)→table(Π)              │
-  │├MS(ح-injustice+oppression)→⊜oasis(Ω⚖)            │
-  │├my-4子→℞₇                                          │
-  │└AL(governor-interposition)→黑子白子=siblings-hands│
-  └─────────────────────────────────────────────────────┘
-]
-today:∀谷↑∧∀山↓∧rough→plain∧crooked→straight∧glory(א)ה∧∀flesh-ו
+◉♯梦≡{
+⟲ₑ×9⊞₊₄→₊₅:
+┌──────────────────────────────────┐
+│today→difficulties→still梦        │
+├nation-rise→true("∀人≡")         │
+├GA-hills:sons[slaves+owners]→兄   │
+├MS(ח-injustice)→oasis(freedom-צ) │
+├4子→judge[ᵍ]                     │
+├AL(governor-drip)→子join-hands    │
+├∀谷↑∧∀山↓→straight∧glory         │
+├faith→hew(despair)→hope-stone     │
+└sing(new-meaning)→"sweet-land"    │
+└──────────────────────────────────┘
 }
 
-▣action-faith{
-this=hope∧faith→South
-faith→hew(despair-山)→hope-stone
-faith→⊜(jangling-discord)→symphony(Π)
-faith→[work pray struggle jail stand](ו)→know(ת-one-day)
-→∀子-sing("MyCountry-Ω-land")
+◉♯钟≡{
+⊟ᶠ×10⊞₊₄→₊₅:
+NH(prodigious-hilltops)
+NY(mighty-mountains)
+PA(heightening-alleghenies)
+CO(snow-capped-rockies)
+CA(curvaceous-slopes)
+━but━also━from━
+GA(stone-mountain)
+TN(lookout-mountain)  
+MS(∀hill∧molehill)
 }
 
-▣geography-℞₆{
-prodigious-hilltops(NH)
-mighty-山(NY)
-heightening-Alleghenies(PA)
-snow-capped-Rockies(CO)
-curvaceous-slopes(CA)
-BUT-also:
-stone-山(GA)
-lookout-山(TN)
-∀hill-molehill(MS)
+◉♯Ω≡{
+when(钟ر→∀place)⊞₊₅
+→speed-day
+→∀子[黑白,Jew-Gentile,Protestant-Catholic]
+→join-hands→sing:
+"ת-at-last!×3⊞₊₅
+Thank(א-Almighty)
+We-are-ת-at-last!"
 }
 
-▣finale{
-when-∀🔔ר→speed-day→∀子[黑白 Jew-Gentile Protestant-Catholic]→ו-hands→sing:
-"ת-at-last!ת-at-last!Thank-א-Almighty→we-are-ת-at-last!"
-}
-
-◉essence≡{💯→¬ת→◈!(bank⚖→cash)→method(soul>physical)→💭∀(content>color)→🔔∀geography→ת∀ו}
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⟨/МДЕ∞℥℞⟩
+◉essence≡ₐ→ᵦ(¬bank-צ)→ᵨ!→method(soul>physical)→梦(ᵍ∀)→钟(∀geography)→ת(∀together)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⟨/МДЕ∞℥℞Ω⟩
