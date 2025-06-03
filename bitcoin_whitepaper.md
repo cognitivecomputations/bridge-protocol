@@ -59,7 +59,7 @@
   future:payment channels, pruning, lightweight clients
 }
 
-◉Essence≡peer-to-peer-cash→ψ-timed-ledger secured by Φ→trust→code→₿21 M
+◉essence≡peer-to-peer-cash→ψ-timed-ledger secured by Φ→trust→code→₿21 M
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ⟨/МДЕ∞℥℞Ω⟩
 ```
