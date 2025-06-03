@@ -9,12 +9,12 @@
   ⊕=create,⊖=spend,⊗=double-spend,⊙=broadcast,⇡=longest-chain,χ=CPU-vote
 }
 λ{
-  ₐ:create-blk(⊕∑,tx*,Φ,Δ,ψ) // timestamp-server
+  ₐ:create-blk(⊕∑,tx*,Φ,Δ,ψ)
   ᵦ:verify-tx(tx,µ,ʃ,κ)→bool
   ᵨ:link(prev-♻,blk)→chain
   ᵈ:adj-Δ@2016blk→10 min≈target
   ₑ:Γ(Φ)=SHA256²
-  ᶠ:resolve-fork(⇡,ω) // accept longest valid chain
+  ᶠ:resolve-fork(⇡,ω)
   ᵍ:update-µ(tx)
   ₕ:reward(blk)→₿50·2^(–halvings)
   ᵢ:SPV(heads)→prob(⊗)≪ε
